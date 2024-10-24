@@ -1,4 +1,4 @@
-Struct.c
+//Struct.c
 #include<stdio.h>
 typedef struct distance
 { int dis1;
